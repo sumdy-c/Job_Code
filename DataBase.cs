@@ -136,7 +136,7 @@ namespace MFServer
                 }
             }
 
-            if (BCrypt.CheckPassword(passwordinput, password))
+            if (CheckPassword(passwordinput, password))
             {
                 return true;
             } 
