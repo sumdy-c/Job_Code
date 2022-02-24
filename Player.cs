@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace RPG_Artyom_gaci
+namespace RPG_nullName
 {
     class Player
     {
